@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column nowrap;
+}
+
+footer{
+    position: absolute;
+    bottom: 10px;
+}
+
+main{
+    align-self: center;
+    text-align: center  ;
+}
